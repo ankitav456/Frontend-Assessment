@@ -25,7 +25,7 @@ function updateCountryIcon() {
   const selectedCountry = selectElement.value;
   const countryIcon = document.getElementById("country-icon");
 
-  countryIcon.src = `/image/country/${selectedCountry}.svg`;
+  countryIcon.src = `image/country/${selectedCountry}.svg`;
   countryIcon.alt = `${selectedCountry} Icon`;
 }
 
