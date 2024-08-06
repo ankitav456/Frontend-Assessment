@@ -23,7 +23,7 @@ This project is a demo webpage developed as part of a test assignment for Ideama
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ankitav456/Frontend-Assessment.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -69,7 +69,7 @@ This project is a demo webpage developed as part of a test assignment for Ideama
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ankitav456/Frontend-Assessment.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -81,7 +81,7 @@ This project is a demo webpage developed as part of a test assignment for Ideama
 You can view a screen recording of the project [here](https://drive.google.com/file/d/1HoNQ17D_Juco9PE8ZjY0TbPZmfieOJvy/view?usp=drive_link).
 
 ## Live Demo
-The project is hosted on Netlify and can be accessed [here](https://your-netlify-url.netlify.app).
+The project is hosted on Github and can be accessed [here](https://ankitav456.github.io/Frontend-Assessment/).
 
 ## Project Structure
 frontend-demo/
